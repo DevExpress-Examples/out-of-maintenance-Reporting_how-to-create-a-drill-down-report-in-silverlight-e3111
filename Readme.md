@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [XtraReport1.cs](./CS/PreviewClickSample.Web/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/PreviewClickSample.Web/XtraReport1.vb))
+* [App.xaml.cs](./CS/PreviewClickSample/App.xaml.cs)
+* **[MainPageViewModel.cs](./CS/PreviewClickSample/MainPageViewModel.cs) (VB: [MainPageViewModel.vb](./VB/PreviewClickSample/MainPageViewModel.vb))**
+<!-- default file list end -->
 # How to create a drill-down report in Silverlight
 
 
