@@ -6,6 +6,9 @@
 * [MainPage.xaml.cs](./CS/PreviewClickSample/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/PreviewClickSample/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to create a drill-down report in Silverlight
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3111)**
+<!-- run online end -->
 
 
 <p>This example illustrates the interactive capabilities of Document Preview.</p><p>In particular, it shows how you can implement collapsible document sections, which you can expand by clicking an element in Document Preview. You can do this by handling the <strong>PreviewClick</strong> and/or <strong>PreviewMouseMove</strong> event of <strong>DocumentPreviewModelBase</strong>.</p>
